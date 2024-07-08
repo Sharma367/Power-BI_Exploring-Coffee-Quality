@@ -1,8 +1,6 @@
 # Power-BI_Exploring-Coffee-Quality
-This is a captsone project which I did during my course for Data Science Bootcamp. The primary goal of this project is to leverage the rich dataset provided by CQI to understand the factors that contribute to coffee quality.
-Coffee Quality Institute: 
-
-The Coffee Quality Institute (CQI) is a non-profit organization that works to improve the quality and value of coffee worldwide. It was founded in 1996 and has its headquarters in California, USA.
+This is a captsone project which I did during my course for Data Science Bootcamp. The primary goal of this project was to leverage the rich dataset provided by CQI to understand the factors that contribute to coffee quality.
+Coffee Quality Institute: The Coffee Quality Institute (CQI) is a non-profit organization that works to improve the quality and value of coffee worldwide. It was founded in 1996 and has its headquarters in California, USA.
 
 CQI's mission is to promote coffee quality through a range of activities that include research, training, and certification programs. The organization works with coffee growers, processors, roasters, and other stakeholders to improve coffee quality standards, promote sustainability, and support the development of the specialty coffee industry.
 
